@@ -1270,7 +1270,6 @@ body,
   line-height: 1.5;
   box-shadow: #aaa 0px 10px 8px -10px inset, #aaa 0px -10px 8px -10px inset;
   overflow: auto;
-  background: hsl(53deg 100% 76%);
 }
 .markdown pre ::-webkit-scrollbar {
   width: 4px;
